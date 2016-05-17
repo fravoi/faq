@@ -1,2 +1,2 @@
 # faq
-small FAQ for mangaki
+small FAQ ("foire aux questions" in French) for mangaki
